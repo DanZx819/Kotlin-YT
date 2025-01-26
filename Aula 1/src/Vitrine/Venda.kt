@@ -1,0 +1,4 @@
+package Vitrine
+
+class Venda {
+}
